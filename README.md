@@ -165,4 +165,14 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img width="1050" height="636" alt="image" src="https://github.com/user-attachments/assets/fc5934c5-c5e3-4999-a914-199787b719e1" />
 
 
+
+👤 Author
+Datus Ekwabi
+LinkedIn: www.linkedin.com/in/datus-ekwabi-43b622173
+________________________________________
+📌 Project Information
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: https://github.com/Datus20/NETWORKWALKS-DATUS-B084-WK2-PM1-FOOTPRINTING-WITH-MULTIPLE-KALI-TOOLS
+
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: https://github.com/Datus20/NETWORKWALKS-DATUS-B084-WK2-PM5-ZENMAP-BASED-NETWORK-SCANNING
+
 -End-
